@@ -1,0 +1,2 @@
+# C-
+define class string
